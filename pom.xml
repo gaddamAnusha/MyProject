@@ -16,7 +16,7 @@
   <url>http://maven.apache.org</url>
   
   <build>
-<pligins>  
+<plugins>  
 <plugin>
 	<groupId>org.jacoco</groupId>
 		<artifactId>jacoco-maven-plugin</artifactId>
